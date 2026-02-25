@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Mango body -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,32 C40,32 30,42 28,56 C26,70 32,82 46,84 C60,86 72,78 76,64 C80,50 68,32 54,32Z" />
+
+    <!-- Mango body shading (darker) -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M54,36 C44,36 36,44 34,56 C32,68 38,78 48,80 C42,74 40,64 42,54 C44,44 50,38 54,36Z" />
+
+    <!-- Mango highlight -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M60,40 C64,42 68,48 68,56 C68,52 66,46 60,40Z" />
+
+    <!-- Stem -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M52,34 C52,34 50,28 52,24 C54,20 56,22 54,26 C52,30 52,34 52,34Z"
+        android:strokeWidth="0.5"
+        android:strokeColor="#4E342E" />
+
+    <!-- Leaf -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M53,26 C53,26 60,20 68,22 C68,22 62,26 56,28 C56,28 54,28 53,26Z" />
+
+    <!-- Leaf vein -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M55,26 L64,23"
+        android:strokeWidth="0.4"
+        android:strokeColor="#2E7D32" />
+
+    <!-- Small leaf -->
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M52,28 C52,28 46,24 44,20 C44,20 48,22 52,28Z" />
+
+    <!-- Blush spot -->
+    <path
+        android:fillColor="#E65100"
+        android:alpha="0.3"
+        android:pathData="M40,68 C36,62 38,54 44,50 C38,56 38,64 40,68Z" />
+
+</vector>

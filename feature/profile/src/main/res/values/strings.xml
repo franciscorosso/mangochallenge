@@ -1,0 +1,10 @@
+<resources>
+    <string name="profile_title">Perfil</string>
+    <string name="profile_error">Error al cargar el perfil. Por favor, intenta de nuevo.</string>
+    <string name="profile_email_label">Correo electronico</string>
+    <string name="profile_username_label">Nombre de usuario</string>
+    <string name="profile_phone_label">Telefono</string>
+    <string name="profile_address_label">Direccion</string>
+    <string name="profile_address_format">%1$s %2$d, %3$s %4$s</string>
+    <string name="profile_favorites_count">Productos favoritos</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="favorites_title">Favoritos</string>
+    <string name="favorites_empty">Aun no tienes favoritos.\nToca el icono de corazon en un producto para agregarlo aqui.</string>
+</resources>

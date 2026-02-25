@@ -1,0 +1,6 @@
+<resources>
+    <string name="products_title">Productos</string>
+    <string name="products_error">Error al cargar los productos. Por favor, intenta de nuevo.</string>
+    <string name="search_placeholder">Buscar por nombre o categoria</string>
+    <string name="search_clear">Limpiar busqueda</string>
+</resources>

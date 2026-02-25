@@ -1,0 +1,27 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+
+# IDE
+.idea/
+
+# Claude
+.claude/
+
+# Build
+/build
+**/build/
+/captures
+
+# Native
+.externalNativeBuild
+.cxx
+
+# Cache
+.cache/
+*.hprof
+
+# OS
+.DS_Store
+Thumbs.db
