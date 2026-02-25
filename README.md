@@ -5,8 +5,8 @@ Aplicacion Android desarrollada como challenge tecnico para Mango. Muestra un ca
 ## Capturas de pantalla
 
 | Productos | Favoritos | Perfil |
-|-----------|-----------|--------|
-| Lista de productos con toggle de favoritos | Productos marcados como favoritos | Datos del usuario y contador de favoritos |
+|----------|-----------|--------|
+| <img src="https://github.com/user-attachments/assets/24126428-8046-4dd2-aa6c-e31c209de0ed" width="298"/> | <img src="https://github.com/user-attachments/assets/8b83c4e8-dbe1-484b-b8ac-40d107841983" width="298"/> | <img src="https://github.com/user-attachments/assets/2869b154-bfa2-49c2-8546-85b0f4afef08" width="298"/> |
 
 ## Arquitectura
 
