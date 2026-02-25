@@ -1,6 +1,6 @@
 # Mango Challenge
 
-Aplicacion Android desarrollada como challenge tecnico para Mango. Muestra un catalogo de productos obtenidos de la [Fake Store API](https://fakestoreapi.com/), permite gestionar favoritos con persistencia local y visualizar un perfil de usuario.
+Aplicacion Android que muestra un catalogo de productos obtenidos de la [Fake Store API](https://fakestoreapi.com/), permite gestionar favoritos con persistencia local y visualizar un perfil de usuario.
 
 ## Capturas de pantalla
 
